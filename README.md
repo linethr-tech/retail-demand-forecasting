@@ -22,5 +22,13 @@ The goal is to support better inventory planning and decision-making.
 - Handled missing values (e.g., MarkDowns filled with 0)
 - Prepared dataset for modeling
 
-### 🔄 Modelling (in progress)
-- Upcoming: train/test split, regression models, evaluation metrics
+### 🔄🤖 Modelling (Results): train/test split, regression models, evaluation metrics
+- Linear Regression:
+  - MAE: ~14,561
+  - RMSE: ~21,752
+
+- Random Forest:
+  - MAE: ~1,523
+  - RMSE: ~3,878
+
+Random Forest significantly improved performance, capturing complex patterns in the data. In other words, I built a predictive sales model and significantly improved its accuracy using Random Forest, reducing the error by more than 80%.
