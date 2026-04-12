@@ -4,7 +4,7 @@ Business case: forecasting demand to improve supply chain efficiency
 This project aims to predict retail sales using historical data, store characteristics, and external economic factors.  
 The goal is to support better inventory planning and decision-making.
 ## Project Progress
-- ### ✅ Data Cleaning
+### ✅ Data Cleaning
 - Loaded and validated multiple datasets
 - Ensured consistent data types (e.g., datetime for merging)
 
